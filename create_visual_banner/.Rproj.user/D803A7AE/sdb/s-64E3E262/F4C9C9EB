@@ -1,0 +1,17 @@
+{
+    "contents" : "# Creating a Mildly Interesting Data Science Banner\n# 2015-05-18\n# Chris Ashburner\n\n# Load Required Packages\n\nrequire(WDI)\n\n# Load Data\n\n# Transform Data\n\n# Explore Data\n\n# Final Visualisation",
+    "created" : 1431934302749.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3336178498",
+    "id" : "F4C9C9EB",
+    "lastKnownWriteTime" : 1431935679,
+    "path" : "~/GitHub/mildlyinterestingdatascience/create_visual_banner/create_visual_banner.R",
+    "project_path" : "create_visual_banner.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
